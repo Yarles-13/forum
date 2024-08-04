@@ -15,6 +15,7 @@ function createElement(tag, innerText, className) {
     newElement.classList.add(className);
   }
   return newElement;
+  ;
 }
 
 function addPost(e) {

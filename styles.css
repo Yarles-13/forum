@@ -63,3 +63,13 @@
   text-decoration: underline;
   cursor: pointer;
 }
+.red-orange {
+  color: orangered;
+  font-size: 10px;
+  font-weight: 700;
+}
+.purple {
+  color: blueviolet;
+  font-size: 10px;
+  font-weight: 700;
+}
